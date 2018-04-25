@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/share/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#f0efef",
+    "navigationBarTitleText": "你画我猜",
+    "navigationBarTextStyle":"black"
+  }
+}

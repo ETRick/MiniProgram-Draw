@@ -1,0 +1,14 @@
+<!--pages/share/index.wxml-->
+<!-- https://github.com/ETRick/MiniProgram-Draw -->
+<view class="container">
+  <view class="content">
+    <text class="title">来猜猜</text>
+    <text>  </text>
+    <image src="{{imgUrl}}"></image>
+    <button class="btn-share" open-type="share">发送给朋友来猜</button>
+    <button class="btn-save" bindtap="clickSave">保存到相册</button>
+  </view>
+  <view class="foot">
+    <text bindtap='clickBack'>返回首页</text>
+  </view>
+</view>
