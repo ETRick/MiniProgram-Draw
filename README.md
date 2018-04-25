@@ -1,5 +1,7 @@
 # MiniProgram-Draw
 实现微信端你画我猜功能（界面模仿【画画猜猜】）
+![游戏内截图][1]
+
 #实现功能
  - canvas绘制
  - 自定义组件
@@ -15,3 +17,4 @@
  - 一些动画效果
  
 
+ [1]: https://raw.githubusercontent.com/ETRick/MiniProgram-Draw/master/doc/image/draw_guess_example.png
