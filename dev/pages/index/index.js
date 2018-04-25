@@ -133,7 +133,7 @@ Page({
 
   // 刷新，切换下一个题目
   clickRefresh: function () {
-    this.loadQuestionByLevelId(this.data.levelId++);
+    console.log("没有题目");
     this.init();
     this.clickClearAll();
   },
